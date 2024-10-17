@@ -5,6 +5,7 @@ Tổng hợp tài nguyên học các ngoại ngữ khác bằng Tiếng Việt.
 - [Tôi luyện Tiếng Anh](https://daihocmo.github.io/tieng-anh/)
 - [Resources Page](https://daihocmo.github.io/tieng-anh/resources/)
 - [English Media Recommendation](media-recs/tieng-anh/README.md) - Tổng hợp gợi ý những nội dung tiêu thụ bằng Tiếng Anh.
+- [Danh sách kênh Youtube Tiếng Anh đi lượm nhiều chỗ trên Reddit](ngon-ngu/tieng-anh/youtube-channel.md) - Chưa chỉnh sửa lại nhiều với phân loại theo chủ đề.
 
 ## Tiếng Nhật
 - [TheMoeWay - Bản dịch Tiếng Việt](https://daihocmo.github.io/tieng-nhat)
