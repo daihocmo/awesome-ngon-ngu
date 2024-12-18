@@ -1,4 +1,3 @@
-# awesome-ngon-ngu
 Tổng hợp tài nguyên học các ngoại ngữ khác bằng Tiếng Việt. 
 
 ## Tiếng Anh
@@ -18,3 +17,4 @@ Tổng hợp tài nguyên học các ngoại ngữ khác bằng Tiếng Việt.
 
 ## Vietnamese
 - [Vietnamese Media Recommendation Spreadsheet](media-recs/tieng-viet/README.md)
+- [A collection of Vietnamese Youtube channels](media-recs/tieng-viet/noi-dung-tieng-viet.md)
