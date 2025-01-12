@@ -2,46 +2,68 @@
 
 Đây là danh sách tổng hợp các nội dung đi lượm được ở trên Reddit. Sẽ sớm (không biết bao giờ) được sửa lại để trông đẹp hơn. 
 
+Mình cũng không biết sửa phân mục thế nào cho dễ đọc nữa.
+
 ### Animation
-- Alan Becker
-- Narmak
-- Jaiden Animations
+- [Narmak](https://www.youtube.com/@Narmak)
+- [Jaiden Animations](https://www.youtube.com/@jaidenanimations)
+- [Lowbrow Studios](https://www.youtube.com/@LowbrowStudios)
 
 ### Anime
-- Something Witty Entertainment
-- Super Eyepatch Wolf
-- Mike Inel 
-- Anime Philosopher
-- DouchebagChocolat
-- Beyond Ghibli
+- [Anime Philosopher](https://www.youtube.com/@AnimePhilosopher)
+- [DouchebagChocolat](https://www.youtube.com/@DouchebagChocolat)
+- [Beyond Ghibli](https://www.youtube.com/@BeyondGhibli)
+- [Bonsai Pop](https://www.youtube.com/@Bonsaipop)
+
+### Animation
+- [Mike Inel](https://www.youtube.com/@mikeinel) 
+- [Something Witty Entertainment](https://www.youtube.com/@SWE)
+- [CGP Grey](https://www.youtube.com/@CGPGrey)
 
 ### Documentary
-- LEMMiNO 
+- [LEMMiNO](https://www.youtube.com/@LEMMiNO) - Không nhiều video nhưng các video đều được làm với chất lượng rất cao. Các video Top 10 hồi trước là khi kênh còn là một kênh về Meme. 
+- [Dark Docs](https://www.youtube.com/@DarkDocs)
+- [fern](https://www.youtube.com/@fern-tv) - Các video dạng tài liệu và được làm dưới dạng hoạt họa 3D.
 
-### Essayist
-- [Exurb1a](https://youtube.com/c/Exurb1a) makes videos that delve into deep topics like the nature of reality, with a very humorous twist. And some are just really funny without the deep thoughts. Either way, sounds like you'll enjoy it, especially since you're looking for content to watch while you're under the influence of certain substances, since you'll either have your mind blown while giggling, or just be giggling ;)
-- Folding Ideas
-- Innuendo Studios
-- The Universal Appeal of Princess Mononoke
-- Shaun
-- Matthewmatosis - (take your pick) come back to this
-- CrackerMilk - YouTube (5/5)
-- Three Arrows - (I have enjoyed every video from three arrows that i have watched, so i would say just pick one, but if i have to recommend a video it would be Deutschland by Rammstein: An Analysis, but like i said basically all of three arrows videos are really good and of similar quality: Tags: essayist, history, politics
-- Bonsai Pop
-- Then & Now
-- Jay Exci - (just sort by most popular) come back to this
+### Kể chuyện (Bí ẩn, giả thuyết, các sự kiện lịch sử đặc biệt)
+- [Brew](https://www.youtube.com/@Brew)
+- [Rare Earth](https://www.youtube.com/@RareEarthSeries)
+- [PolyMatter](https://www.youtube.com/@PolyMatter)
 
-### Critics
-- **Stoned Gremlin Productions** - *Critic of all things bad and beyond.*
+### Video Essay
 
-### Movies
-- kaptainkristian
-- Is This Just Fantasy?
-- YourMovieSucksDOTorg
-- BREADSWORD
+- [Münecat](https://www.youtube.com/c/m%C3%BCnecat)
+- [Innuendo Studios](https://www.youtube.com/@InnuendoStudios)
+- [The Universal Appeal of Princess Mononoke](https://www.youtube.com/watch?v=We-TUXA03wQ&pp=ygUpVGhlIFVuaXZlcnNhbCBBcHBlYWwgb2YgUHJpbmNlc3MgTW9ub25va2U%3D)
+- [Second Thought](https://www.youtube.com/@SecondThought)
+- [Wendigoon](https://www.youtube.com/@Wendigoon) - Good vibes and ok content
+- [Exurb1a](https://youtube.com/c/Exurb1a) makes videos that delve into deep topics.
+- [Folding Ideas](https://www.youtube.com/@FoldingIdeas)
+- [Shaun](https://www.youtube.com/@Shaun_vids)
+- [Matthewmatosis](https://www.youtube.com/@Matthewmatosis)
+- [CrackerMilk](https://www.youtube.com/@CrackerMilk)
+- [Then & Now](https://www.youtube.com/@ThenNow)
+- [Jay Exci](https://www.youtube.com/@JayExci)
+- [Super Eyepatch Wolf](https://www.youtube.com/@supereyepatchwolf3007)
+
+### Lịch sử
+- [Three Arrows](https://www.youtube.com/@ThreeArrows)
+- [Historia Civilis](https://youtu.be/fD-R35DSSZY)
+- [Extra History](https://www.youtube.com/@extrahistory)
+
+### Nhận xét phim ảnh
+- [Stoned Gremlin Productions](https://www.youtube.com/@StonedGremlinProductions) - Critic of all things bad and beyond.
+
+### Phim
+- [kaptainkristian](https://www.youtube.com/@kaptainkristian)
+- [Is This Just Fantasy?](https://www.youtube.com/@isthisjustfantasy7583)
+- [YourMovieSucksDOTorg](https://www.youtube.com/@YMS)
+- [BREADSWORD](https://www.youtube.com/@BREADSWORD)
+- [Every Frame a Painting](https://www.youtube.com/@everyframeapainting) - Được gợi ý bởi Dan Hauer. Xem thử thấy cũng okay. Trên Reddit mọi người hay bảo là must-watch nên có thể bạn sẽ thích
+- [Kane Pixels](https://www.youtube.com/@kanepixels)
 
 ### Natural Life
-- [Deep Look](https://www.youtube.com/@KQEDDeepLook) Such awesome videos about all sorts of natural life. [The one on decorator crabs is my favorite](https://youtu.be/OwQcv7TyX04)
+- [Deep Look](https://www.youtube.com/@KQEDDeepLook)
 
 ### Philosophy
 - [Pursuit of Wonder](https://youtube.com/c/PursuitofWonder) has videos that range from short stories to video essays that explore philosophy and the unknowns in life, like consciousness theory and existentialism. The stories this guy writes himself are mind blowing and entertaining, and the videos about theories and philosophy are just as good!
@@ -49,103 +71,86 @@
 - [Instructions for a happy life](https://youtu.be/A4pR--qJTdU) is a video I come back regularly to after watching it for the first time 5 years ago when it came out
 
 ### Gaming
-- Hbomberguy
-- Every Frame a Painting - Tất cả các video của kênh này là must-watch.
-- SovietWomble
-- Crowbcat
-- Syrmor
-- Soup Emporium
-- NeverKnowsBest
-- LGR - Lazy Game Reviews - Has some games in it, but is mostly vintage and odd technology.
-- Gaming Historian
-- [Did You Know Gaming]()
-- **Cinemassacre** - *Home of the Angry Video Game Nerd*
-- **Jablinski Games** - *Jack Black's gaming vlogs.*
-- **ChristopherOdd** - *A Let's Play channel you can really fall in love with.*
+- [Hbomberguy](https://www.youtube.com/@hbomberguy) - Review Game có tâm, khá thích xem ổng và thường video của ổng khá dài, khoảng 1 tiếng trở lên
+- [SovietWomble](https://www.youtube.com/@SovietWomble)
+- [Crowbcat](https://www.youtube.com/@crowbcat)
+- [Syrmor](https://www.youtube.com/@syrmor)
+- [Soup Emporium](https://www.youtube.com/@theoneandonlysoupemporium)
+- [NeverKnowsBest](https://www.youtube.com/@NeverKnowsBest) - Nói về Game
+- [LGR - Lazy Game Reviews](https://www.youtube.com/@LGR)
+- [Gaming Historian](https://www.youtube.com/@GamingHistorian) - Làm về Game cũ, Retro rồi các loại máy chơi Game cũ, nói chung là Game cũ
+- [Did You Know Gaming](https://www.youtube.com/@DidYouKnowGamin)
+- [Cinemassacre](https://www.youtube.com/@JamesNintendoNerd) - Home of the Angry Video Game Nerd
+- [Jablinski Games](https://www.youtube.com/@JablinskiGames)
+- [ChristopherOdd](https://www.youtube.com/@ChristopherOdd)
+- [Adam Millard - The Architect of Games](https://www.youtube.com/@ArchitectofGames)
 
 ### Humor 
-- Internet Historian
-- FUNKe
-- JelloApocalypse
-- Incognito mode.
+- [Internet Historian](https://www.youtube.com/@InternetHistorian)
+- [FUNKe](https://www.youtube.com/@FUNKe)
+- [JelloApocalypse](https://www.youtube.com/@JelloApocalypse)
+- [Incognito Mode](https://www.youtube.com/@IHincognitoMode)
 
 ### Vlog
-- 李子柒Liziqi
+- [李子柒Liziqi](https://www.youtube.com/@cnliziqi)
 
-### Travel
-- bald and bankrupt
+### Meme
+- [Daily Dose of Internet](https://www.youtube.com/@DailyDoseOfInternet)
+
+### Du lịch
+- [bald and bankrupt](https://www.youtube.com/@baldandbankrupt)
 
 ### True Crime
-- JCS - Criminal Psychology
+- [JCS - Criminal Psychology](https://www.youtube.com/@JCS)
 
 ### Skits
-- MEM
-- derrickcomedy
-- BriTANicK
-- ian kung
-- Captain Disillusion
+- [derrickcomedy](https://www.youtube.com/@derrickcomedy)
+- [BriTANicK](https://www.youtube.com/@britanick)
+- [ian kung](https://www.youtube.com/@IanKung)
+- [Captain Disillusion](https://www.youtube.com/@CaptainDisillusion)
+- [Nathan Doan](https://www.youtube.com/@nathandoancomedy)
 
 ### Science
 - [Tom Scott](https://youtu.be/2vd8Wfk9im0)
 - [PBS Space Time](https://youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1)
 - [SciShow](https://youtu.be/BGACvb3Mm60)
 - [Veritasium](https://youtu.be/HeQX2HjkcNo), 
-- Vsauce
-- Wendover productions
-- Mustard
+- [Vsauce](https://www.youtube.com/@Vsauce) - Thế giới của chúng ta thật tuyệt vời
+- [Wendover Productions](https://www.youtube.com/@Wendoverproductions)
+- [Mustard](https://www.youtube.com/@MustardChannel)
+- [SmarterEveryDay](https://www.youtube.com/@smartereveryday)
+- [Mark Rober](https://www.youtube.com/@MarkRober)
+- [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
+- [Steve Mould](https://www.youtube.com/@SteveMould)
+- [Engineering Explained](https://www.youtube.com/@EngineeringExplained)
+- [AlphaPhoenix](https://www.youtube.com/@AlphaPhoenixChannel)
 
 ### Boardgame
-- [GothamChess]() - Chess-related videos (He's the one who pitted ChatGPT against Stockfish, which played out in the craziest way possible)
+- [GothamChess](https://www.youtube.com/@GothamChess) - Chess-related videos (He's the one who pitted ChatGPT against Stockfish, which played out in the craziest way possible)
+
+### DIY
+- [I did a thing](https://www.youtube.com/@Ididathing).
 
 ### Electronics
-- [Big Clive (bigclivedotcom)] - Various electronic gadget teardowns
-- shango066 - Vintage electronics (and some other things)
-- [How Ridiculous]() - Various insane experiments
+- [Big Clive (bigclivedotcom)](https://www.youtube.com/@bigclivedotcom) - Various electronic gadget teardowns
+- [shango066](https://www.youtube.com/@shango066) - Vintage electronics (and some other things)
+- [How Ridiculous](https://www.youtube.com/@howridiculous) - Various insane experiments
 
-### History
-- [Historia Civilis](https://youtu.be/fD-R35DSSZY)
+### Âm nhạc
+Các kênh sau đây sẽ là bàn về chủ đề Âm Nhạc, chứ không phải kênh nhạc/
 
-### Car
-- Bladed angel for car videos personally for me
-- Squidd for car history stuff
+- [12tone](https://www.youtube.com/@12tone)
+- [Justin Hawkins Rides Again](https://www.youtube.com/@JustinHawkinsRidesAgain)
+
+### Thể thao
+- [Secret Base](https://www.youtube.com/@SecretBaseSBN)
 
 
-### idk where to put these channels
-- Münecat
-- Second Thought
-- Innuendo Studios
-- Not Just Bikes
-- Smarter every day
-- Mark Rober
-- Electro boom
-- Steve mould
-- Engineering explained
-- Alpha Phoenix
-- 12 tone for music analysis
-- Architect of games
-- Adam Savage tested
-- Brew
-- Brick immortar
-- Cgp grey
-- Poly matter
-- Rare earth
-- Secret base ( crazy sports stat nerds)
-- Daily Dose of Internet
-- [Wendigoon](https://www.youtube.com/@Wendigoon) - Good vibes and ok content
-- [Dark Docs]()
-- Extra History
-- Lowbrow
-- Jordan Howlett
-- Key of Geebz
-- First We Feast
-- Liminal Land
-- Kane Pixels
-- Justin Hawkins Rides Again
-- eli_handle_b.wav
-- Amoeba
-- Uncle Roger Shorts
-- Josh Gad
-- All Gas No Breaks
-- CDTcrew*
-- **Sundae Conversations** - *Best celebrity interview show, hands down.*
-- I did a thing.
+### Không rõ chủ đề
+- [Not Just Bikes](https://www.youtube.com/@NotJustBikes)
+- [Adam Savage's Tested](https://www.youtube.com/@tested)
+- [Jordan Howlett](https://www.youtube.com/@jordan_the_stallion8)
+- [Key of Geebz](https://www.youtube.com/@KeyOfGeebz)
+- [First We Feast](https://www.youtube.com/@FirstWeFeast) - Về ẩm thực ăn uống
+- [All Gas No Breaks](https://www.youtube.com/@allgasnobrakes2491) - Phỏng vấn đường phố
+- [Sundae Conversations](https://www.youtube.com/@sundaeconversation) - Best celebrity interview show, hands down.
