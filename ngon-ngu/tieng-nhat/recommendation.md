@@ -23,6 +23,9 @@ Danh sách gợi ý Anime
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
 
 ## Youtube
+
+> Danh sách tổng hợp các kênh Youtube bằng Tiếng Nhật theo chủ đề: [Danh sách này](youtube.md)
+
 -  [**Japanese Media Recommendation Spreadsheet**](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/) - Gợi ý hàng đầu
 - [Comprehensible Japanese - Tiếng Nhật dễ hiểu - Danh sách các kênh Youtube](https://reddit.com/r/LearnJapanese/comments/18wf1w2/my_list_of_comprehensible_japanese_channels/)
 - [Danh sách hơn 50 kênh Youtube Tiếng Nhật trên Reddit](https://reddit.com/r/LearnJapanese/comments/ox3ljg/for_anyone_wanting_japanese_youtube_channel/)

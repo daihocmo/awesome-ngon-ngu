@@ -25,12 +25,12 @@ Hướng dẫn tự học ngoại ngữ sẽ giúp bạn định hướng đư�
 
 ## Tiếng Trung
 - [Hướng dẫn tự học Tiếng Trung](https://daihocmo.github.io/tieng-trung)
-- [Kho nội dung Comprehensible Input](ngon-ngu/tieng-trung/input.md)
-- [Bảng Media gợi ý cho Tiếng Trung]() - Chưa làm, có thể sẽ được làm trong tương lai gần.
+- [Kho nội dung Comprehensible Input](ngon-ngu/tieng-trung/comprehensible.md)
+- [Bảng Media gợi ý cho Tiếng Trung](ngon-ngu/tieng-trung/input.md)
 
 ## Tiếng Việt/Vietnamese
 
 - [Vietnamese Learning Guide](https://daihocmo.github.io/learn-vietnamese/)
-- [Comprehensible Vietnamese]() - Unavailable
+- [Comprehensible Vietnamese](media-recs/tieng-viet/comprehensible.md) - Unavailable
 - [Vietnamese Media Recommendation Spreadsheet](media-recs/tieng-viet/README.md)
 - [A collection of Vietnamese Youtube channels](media-recs/tieng-viet/noi-dung-tieng-viet.md)

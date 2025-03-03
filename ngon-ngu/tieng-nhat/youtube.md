@@ -1,4 +1,4 @@
-# Tổng hợp kênh Youtube tiếng Nhật theo thể loại (Tối giản)
+# Tổng hợp kênh Youtube Tiếng Nhật theo thể loại
 
 ## Anime & Manga
 
