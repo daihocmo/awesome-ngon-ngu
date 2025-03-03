@@ -9,34 +9,74 @@ Nếu bạn muốn xem video khởi đầu cho giả thuyết này, [đây chín
 
 Toàn bộ tài nguyên Comprehensible Input sẽ được để bên dưới.
 
-## Nghe
+## Học
 
 Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực hơn so với đọc. Đồng thời, việc nghe nhiều sẽ giúp chúng ta bắt được cách phát âm đúng của người ta.
 
 Các nội dung thêm: Bạn có thể đọc thêm về Comprehensible Japanese tại [trang này](https://cijapanese.com/).
 
-- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg)
-- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA): Khó hơn chút, vì anh này quay vlog nói một mình hoặc các tình huống giao tiếp ngoài đời thực, có phụ đề.
-- [The bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw): Chị layla chia sẻ về trải nghiệm cá nhân bằng Tiếng Nhật. không quá khó nghe vì được làm cho người học nhưng cũng không quá dễ nghe vì cần một lượng từ vựng tương đối.
-- [YUYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA): Podcast của YUYU rơi vào khoảng N3 ~ N2. 
-- [Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA/) **
-- [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese/)     
-- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)                  
-- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA)                  
-- [The Bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw)      
-- [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw/)                                 
-- [日本語の森](https://www.youtube.com/c/nihongonomori2013) also N3 <                                         
-- [Onomappu](https://www.youtube.com/c/Onomappu)                                                  
-- [日本語 to 旅 〜Nihongo to Tabi〜](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ/)                
-- [しのせんせい](https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg)                                     
-- [Japanese with Noriko](https://www.youtube.com/c/LearnJapanesewithNoriko/)                             
-- [Nihongo News](https://www.youtube.com/c/NihongoNews/)                                                 
-- [Sayuri Saying](https://www.youtube.com/@SayuriSaying)     
+Đây là danh sách tổng hợp các kênh Youtube học tiếng Nhật đã được gộp lại, loại bỏ phân loại theo cấp độ JLPT và xóa các kênh trùng nhau theo yêu cầu của bạn:
 
-Một số các danh sách nghe theo Level (N2) khác:
-- [Japanese Test](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCZ9BbNJBGPFoYXvduL_WQc)
-- [JLPT N2聴解](https://youtube.com/playlist?list=PLjjOUGQqAuxkDBy65hlOWK489jcifUeeE&si=BDPwtcTtU-mjhEKW)
+### Ngữ pháp
 
+- [Ako Nihongo](https://www.youtube.com/c/Akokitamura/videos) - Bài học ngữ pháp N4 - N2.
+- [Japanese Ammo with Misa](https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA) - Tập trung vào ngữ pháp, giảng dạy dễ hiểu.
+- [Jyapasu](https://www.youtube.com/channel/UCq62LsItH2ADzfT4dnjtVIA/videos) - Ngữ pháp N3.
+- [Mirai Sensei](https://www.youtube.com/c/miraisensei-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3/videos) - Các bài học ngữ pháp theo chủ đề.
+- [Neko Sensei](https://www.youtube.com/channel/UCiafy32cYwdAWGQ2SUglJ9g) - Bài học N5 - N2, Minna Nihongo 1 & 2, Minna Nihongo Chuukyuu.
+- [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - Kênh ngữ pháp N3 - N1.
+- [Nihongo to Tabi](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ/videos) - Video ngữ pháp N3-N2, giải thích dễ hiểu.
+- [日本語の森](https://www.youtube.com/c/nihongonomori2013) - Ngữ pháp N3 trở lên.
+- [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw/) - Kênh dạy ngữ pháp tiếng Nhật trung, cao cấp.
+- [しのせんせい](https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg) - Kênh dạy tiếng Nhật tổng hợp, có ngữ pháp N2.
+- [Deguchi Nihongo](https://www.youtube.com/channel/UCDqWakN_owifqIBqyNjg6kg) - Bài học N5 - N2 (Lưu ý: bài N5 và N4 dành cho người nói tiếng Trung).
+- [Learning Japanese w/ Taka](https://www.youtube.com/channel/UCgSWBFB7yqpvDwJYYqZV_uA) - Kênh dạy tiếng Nhật cho người mới bắt đầu.
+
+### Luyện nghe
+
+- [4898 Utaco](https://www.youtube.com/channel/UCtEzeI6wZA-v-L-9ff0WZNA) - Chia sẻ về cuộc sống người Nhật tại Mỹ.
+- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA) - Luyện nghe tiếng Nhật hàng ngày với Naoko.
+- [Japanse w/ Noriko](https://www.youtube.com/channel/UCKa6jaRaKR9-n-cuWSBKqsA) - Lặp lại các từ chủ đề trong podcast.
+- [Japanese Test](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCZ9BbNJBGPFoYXvduL_WQc) - Luyện nghe N2 (dạng bài test).
+- [Japanese with Noriko](https://www.youtube.com/c/LearnJapanesewithNoriko/) - Nội dung luyện nghe phù hợp cho trình độ N4.
+- [JLPT N2聴解](https://youtube.com/playlist?list=PLjjOUGQqAuxkDBy65hlOWK489jcifUeeE&si=BDPwtcTtU-mjhEKW) - Luyện nghe N2 (dạng bài JLPT N2).
+- [Miss Emma](https://www.youtube.com/watch?v=gCfLmtTdzT8) - Luyện nghe qua dictation (dành cho mọi cấp độ đến N2).
+- [MoshiMoshi Yusuke](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA) - Vlog tình huống giao tiếp đời thực, tốc độ nói tự nhiên (có phụ đề).
+- [Next Step Japanese](https://www.youtube.com/channel/UCauyM-A8JIJ9NQcw5_jF00Q) - Các chủ đề đời sống thường ngày.
+- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg) - Kênh tổng hợp các nguồn học tiếng Nhật, có nhiều nội dung luyện nghe.
+- [Nihongo News](https://www.youtube.com/c/NihongoNews/) - Luyện nghe tin tức tiếng Nhật.
+- [Sayuri Saying](https://www.youtube.com/c/SayuriSaying/videos) - Luyện nghe trình độ trung cấp.
+- [The bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw) - Podcast chia sẻ trải nghiệm cá nhân.
+- [YUYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA) - Podcast trình độ N3 ~ N2.
+- [Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA/) - Kênh dạy tiếng Nhật tổng hợp, có nội dung luyện nghe N2.
+- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ) - Kênh dạy tiếng Nhật tổng hợp, có nội dung luyện nghe N2.
+- [Sayuri Saying](https://www.youtube.com/@SayuriSaying) - Kênh dạy tiếng Nhật tổng hợp, có nội dung luyện nghe N2.
+- [日本語の森](https://www.youtube.com/c/nihongonomori2013) - Nội dung luyện nghe N3 trở lên.
+
+### Không phân loại
+
+- [4898 Utaco](https://www.youtube.com/channel/UCtEzeI6wZA-v-L-9ff0WZNA) - Vlog về cuộc sống người Nhật tại Mỹ, nội dung giải trí.
+- [Aoi](https://www.youtube.com/channel/UCkmQx9zSwidPupChljGjwGA) - Vlog về trang điểm.
+- [Benjiro - Beginner Japanese](https://www.youtube.com/c/BenjiroJapanese/videos) - Hội thoại tiếng Nhật cơ bản (dù kênh không còn hoạt động).
+- [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese/) - Nội dung giải trí được thiết kế để dễ hiểu cho người học tiếng Nhật.
+- [フラベジ](https://www.youtube.com/channel/UClKeJXipXwX7_ZGxOBnMQyw/about) - Vlog về cuộc sống thường ngày.
+- [Japanese Immersion with Asami](https://www.youtube.com/channel/UCIciBLpZ6BP2XNYTFXb6eRQ/videos) - Học tiếng Nhật qua các câu chuyện kể hấp dẫn.
+- [Japanese Lessons w/ Mom & Daughter](https://www.youtube.com/channel/UC94_SgX_qA_c4nK7CUuy6WA) - Nội dung đời sống gia đình, phù hợp để giải trí.
+- [Learn Japanese with Manga](https://www.youtube.com/channel/UC59ZURfw529EQEE1gVUMSlw/videos) - Giải trí và học tiếng Nhật qua manga.
+- [Low Key Japan](https://www.youtube.com/channel/UC4hHjkdLQTd1UtSwHOn_cKg/videos) - Nội dung giải trí về cuộc sống ở Nhật Bản ở tốc độ chậm rãi, dễ nghe.
+- [MoshiMoshi Yusuke](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA) - Vlog tình huống giao tiếp đời thực, mang tính giải trí.
+- [Onomappu](https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ) - Kênh giải trí có nội dung phù hợp cho người mới bắt đầu.
+- [Tempura Sensei.](https://www.youtube.com/channel/UCID8Fgoj27wtwkBqXyfx4aQ) - Nội dung đa dạng, phù hợp để giải trí.
+- [Tokyo Veg Life](https://www.youtube.com/channel/UCLiCU0qaVZOVB2nwj4wqpXg) - Vlog về cuộc sống ăn chay ở Tokyo.
+- [Yamamomo](https://www.youtube.com/channel/UCPBH2bIHXIijK8BwumQyRiQ) - Vlog của một nữ vlogger.
+- [YUYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA) - Podcast của YUYU, nội dung giải trí và học tiếng Nhật.
+- [日本語 to 旅 〜Nihongo to Tabi〜](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ/) - Du lịch và học tiếng Nhật.
+- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg) - Kênh tổng hợp các nguồn học tiếng Nhật, có nhiều nội dung giải trí.
+- [Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA/) - Kênh dạy tiếng Nhật tổng hợp, có nội dung giải trí N2.
+- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ) - Kênh dạy tiếng Nhật tổng hợp, có nội dung giải trí N2.
+- [Sayuri Saying](https://www.youtube.com/@SayuriSaying) - Kênh dạy tiếng Nhật tổng hợp, có nội dung giải trí N2.
+- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA/about) - Vlog tình huống giao tiếp đời thực (dành cho trình độ trung cấp).
+- [しのせんせい](https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg) - Kênh dạy tiếng Nhật tổng hợp, có nhiều nội dung đa dạng và giải trí.
 
 ## Đọc 
 
