@@ -1,5 +1,11 @@
 # Tổng hợp tài nguyên học ngôn ngữ miễn phí - Khu học mở
 
+## Truy cập luôn
+
+- [Tiếng Anh](media-recs/tieng-anh/index.md)
+- [Tiếng Nhật](ngon-ngu/tieng-nhat/index.md)
+- [Vietnamese](media-recs/tieng-viet/index.md)
+
 ## Giới thiệu
 Đây là một trang tổng hợp những hướng dẫn + Nội dung bản ngữ giúp bạn học ngôn ngữ hiệu quả hơn.
 
@@ -16,7 +22,6 @@ Hướng dẫn tự học ngoại ngữ sẽ giúp bạn định hướng đư�
 ## Tiếng Anh
 - [Hướng dẫn tự học Tiếng Anh](https://daihocmo.github.io/tieng-anh/)
 - [Kho nội dung Comprehensible Input](https://daihocmo.github.io/tieng-anh/input/)
-- [Bảng Media gợi ý cho Tiếng Anh](media-recs/tieng-anh/README.md) - Tổng hợp gợi ý những nội dung tiêu thụ bằng Tiếng Anh.
 
 ## Tiếng Nhật
 - [Hướng dẫn tự học Tiếng Nhật](https://daihocmo.github.io/tieng-nhat) - Bản dịch Tiếng Việt (một phần) cho trang TheMoeWay
