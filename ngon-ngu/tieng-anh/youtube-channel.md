@@ -61,7 +61,7 @@ Mình cũng không biết sửa phân mục thế nào cho dễ đọc nữa.
 - [Dark Docs](https://www.youtube.com/@DarkDocs)
 - [fern](https://www.youtube.com/@fern-tv) - Các video dạng tài liệu và được làm dưới dạng hoạt họa 3D.
 
-### Kể chuyện (Bí ẩn, giả thuyết, các sự kiện lịch sử đặc biệt)
+### Dẫn truyện
 - [Brew](https://www.youtube.com/@Brew)
 - [Rare Earth](https://www.youtube.com/@RareEarthSeries)
 - [PolyMatter](https://www.youtube.com/@PolyMatter)
@@ -126,9 +126,6 @@ Mình cũng không biết sửa phân mục thế nào cho dễ đọc nữa.
 - [FUNKe](https://www.youtube.com/@FUNKe)
 - [JelloApocalypse](https://www.youtube.com/@JelloApocalypse)
 - [Incognito Mode](https://www.youtube.com/@IHincognitoMode)
-
-### Vlog
-- [李子柒Liziqi](https://www.youtube.com/@cnliziqi)
 
 ### Meme
 - [Daily Dose of Internet](https://www.youtube.com/@DailyDoseOfInternet)
