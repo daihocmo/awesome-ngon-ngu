@@ -2,7 +2,7 @@
 Các nội dung ở đây được làm hoàn toàn cho những người nói Tiếng Anh bản ngữ và không dành cho người học :D.
 
 ### Các nội dung xem
-- [Youtube](danh-muc/youtube.md)
+- [Youtube](danh-muc/youtube.md) - Còn có [danh sách kênh thứ 2](danh-muc/youtube2.md)
 - [Phim](danh-muc/phim.md)
 - [Phim hoạt hình](danh-muc/phim-hoat-hinh.md)
 

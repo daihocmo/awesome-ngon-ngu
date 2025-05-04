@@ -1,6 +1,6 @@
 # Kho kênh Youtube
 
-## Kho 1
+## Danh sách 1
 
 | Kênh | Thể loại | Giới thiệu |
 | --- | ---- | --- |
@@ -34,7 +34,7 @@
 | [Great Art Explained](https://www.youtube.com/c/GreatArtExplained/videos)  | | |
 | [NationSquid](https://www.youtube.com/@nationsquid/videos) | Công nghệ | Chuyên làm những video về chủ đề phần mềm |
   
-## Kho 2
+## Danh sách 2
 
 Đây là danh sách tổng hợp các nội dung đi lượm được ở trên Reddit. Sẽ sớm (không biết bao giờ) được sửa lại để trông đẹp hơn. 
 
