@@ -16,4 +16,5 @@ Hướng dẫn tự học ngoại ngữ của Khu học mở bạn có thể đ�
 
 - [Tiếng Anh](media-recs/tieng-anh/index.md)
 - [Tiếng Nhật](ngon-ngu/tieng-nhat/index.md)
-- [Vietnamese](media-recs/tieng-viet/index.md)
+- [Tiếng Việt](media-recs/tieng-viet/index.md)
+- [Tiếng Trung](media-recs/tieng-trung/index.md)

@@ -1,4 +1,4 @@
-# Tiếng Anh
+# Anh
 Các nội dung ở đây được làm hoàn toàn cho những người nói Tiếng Anh bản ngữ và không dành cho người học :D.
 
 ### Các nội dung xem

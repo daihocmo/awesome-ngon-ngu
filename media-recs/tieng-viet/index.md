@@ -1,4 +1,4 @@
-# Vietnamese
+# Việt
 
 For learners who want to immerse themself in Vietnamese language. Read [the Vietnamese learning guide](https://daihocmo.github.io/learn-vietnamese/guide/)
 

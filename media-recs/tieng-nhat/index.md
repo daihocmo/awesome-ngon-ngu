@@ -1,4 +1,4 @@
-# Tiếng Nhật
+# Nhật
 
 - [Youtube](youtube.md)
 - [Đọc](doc.md)
